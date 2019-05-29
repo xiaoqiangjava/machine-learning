@@ -1,5 +1,6 @@
-./idea
+.idea
+.idea/*.*
+.idea/**/*.*
 *.iml
 venv
-venv/**
-**/venv/**/*.*
+venv/
